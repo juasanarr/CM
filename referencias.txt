@@ -1,0 +1,14 @@
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10598031
+https://dl.acm.org/doi/pdf/10.1145/1143844.1143857
+https://arxiv.org/pdf/2401.08281
+https://andresfelipeocampo.medium.com/y-qu%C3%A9-es-el-end-to-end-learning-98c396bbc62a
+http://try.vectorize.io/?rdt_cid=5435126413281966158&utm_source=reddit
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6065061
+https://www.nature.com/articles/s41592-018-0019-x
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10429609
+https://dl.acm.org/doi/pdf/10.1145/3292500.3330875
+https://medium.com/@joshi.pranjal5/spot-your-favourite-trading-setups-using-vector-databases-1651d747fbf0
+https://www.reddit.com/r/algotrading/comments/1bsz5x1/vector_databases/
+https://www.linkedin.com/pulse/vector-database-ideas-steal-from-wall-street-quants-vol-8/
+https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf
+https://www.pinecone.io/learn/hybrid-search-intro/
