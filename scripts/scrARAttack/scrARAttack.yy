@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrARAttack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrARAttack",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Weapons/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
