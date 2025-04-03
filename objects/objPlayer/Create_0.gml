@@ -1,4 +1,4 @@
-  action = "Idle";
+action = "Idle";
 state = "idle";
 
 start_x = 1504;
